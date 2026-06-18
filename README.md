@@ -1,5 +1,3 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/stasya185/НАЗВАНИЕ_РЕПОЗИТОРИЯ/blob/main/College_Clustering_Analysis.ipynb)# Кластеризация инженерных колледжей
-
 ## Описание задачи
 Проект посвящен анализу и кластеризации 26 инженерных колледжей на основе их показателей: качество преподавания (Teaching), стажировки (Internship), стоимость обучения (Fees), трудоустройство (Placements) и инфраструктура (Infrastructure). Цель — выделить группы схожих колледжей.
 
